@@ -1,0 +1,4 @@
+(define a 5)
+(define b 2)
+(define add (fun (a b)( + a b)))
+(print-num (add 3 4))
